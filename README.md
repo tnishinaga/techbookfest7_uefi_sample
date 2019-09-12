@@ -1,0 +1,2 @@
+# techbookfest7_uefi_sample
+技術書店7で頒布する技術書のサンプルコードです。
